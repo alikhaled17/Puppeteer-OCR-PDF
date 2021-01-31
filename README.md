@@ -5,7 +5,7 @@ Get pdf from any website as images by puppeteer and convert to searchable pdf by
 ## 1-write command:
 -   npm install require
 ## 2-open info.json and write:
--   email, password, website link and book link
+-   email, password, website login link and book link
 
 ## 3-packages that you need:
 
