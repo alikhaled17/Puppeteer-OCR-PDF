@@ -1,5 +1,4 @@
-# Scraping__OCR-PDF
-
+# Puppeteer__OCR-PDF
 Get pdf from any website as images by puppeteer and convert to searchable pdf by pytesseract
 
 ## 1-write command:
